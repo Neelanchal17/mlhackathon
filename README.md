@@ -1,5 +1,5 @@
 
-# Link for training and testing Data:
+# Link to training and testing Data:
 https://drive.google.com/drive/folders/1qu_YJ3xBlN2h5vbZ65R6f9_LrIOShU8-?usp=drive_link
 
 ## Objective: 
